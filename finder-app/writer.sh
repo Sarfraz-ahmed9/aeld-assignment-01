@@ -27,5 +27,5 @@ then
 	echo "Error: Could not create file '$writefile'"
 	exit 1
 fi
-exit 1
+exit 0
 
