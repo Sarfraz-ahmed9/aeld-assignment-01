@@ -18,6 +18,6 @@ void test_validate_my_username()
      * TODO: Replace the line below with your code here as described above to verify your /conf/username.txt 
      * config file and my_username() functions are setup properly
      */
-    TEST_EQUAL_STRING_MESSAGE();
+     TEST_ASSERT_EQUAL_STRING_MESSAGE();
     //TEST_ASSERT_TRUE_MESSAGE(false,"Sarfraz-ahmed9");
 }
